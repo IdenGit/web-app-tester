@@ -1,0 +1,28 @@
+{
+  "name": "web-app-tester",
+  "version": "1.0.0",
+  "description": "web app tester",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdenGit/web-app-tester.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "tester"
+  ],
+  "author": "Denis Kainazarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IdenGit/web-app-tester/issues"
+  },
+  "homepage": "https://github.com/IdenGit/web-app-tester#readme",
+  "devDependencies": {
+    "electron": "^13.1.4"
+  }
+}
